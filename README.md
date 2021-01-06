@@ -1,8 +1,8 @@
 Merge and compress your PDFs into a single PDF
 <br>
-Usage : `main.py -f file1.pdf file2.pdf file3.pdf ...`
+Usage : `python3/python main.py -f file1.pdf file2.pdf file3.pdf ...`
 <br>
-Help : `main.py -h`
+Help : `python3/python main.py -h`
 <br>
 Use `pip install requirements.txt` to install all the dependencies.
 <br>
